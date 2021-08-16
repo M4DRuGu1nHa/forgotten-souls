@@ -5,19 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/FASE 1/CENAS/Menu.unity
     guid: 7b991c74805d5a34887a793d885dfe89
-  - enabled: 0
+  - enabled: 1
     path: Assets/FASE 1/CENAS/JOGO EM SI.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 0
+  - enabled: 1
     path: Assets/FASE 1/CENAS/GAMEOVER.unity
     guid: c385aea3a173ca54fb40978f5936c179
-  - enabled: 0
+  - enabled: 1
     path: Assets/FASE 1/CENAS/GANHO.unity
     guid: 23d5796b4c989724ea7a2c631da20b02
-  - enabled: 1
-    path: Assets/FASE 2/CENA PRINCIPAL 2.unity
-    guid: a6419d3df517b3d4cbd9305c0660b812
   m_configObjects: {}
